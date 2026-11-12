@@ -39,6 +39,7 @@ bio_lines = [
 links = [
     {"text": "portfolio", "url": "https://www.prasunbiswas.qzz.io/"},
     {"text": "linkedin", "url": "https://www.linkedin.com/in/prasun-kumar-biswas-789668415?utm_source=share_via&utm_content=profile&utm_medium=member_android"},
+    {"text": "email", "url": "mailto:prasun.oct27@gmail.com"},
     {"text": "aviation-dashboard", "url": "https://github.com/prasunkumarbiswaspersonal/indian-aviation-delay-and-performance-analysis"}
 ]
 LINKS = tuple(item["text"] for item in links)
